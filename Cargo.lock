@@ -475,7 +475,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "remote-serial-server"
+name = "remote-serial-client"
 version = "0.1.0"
 dependencies = [
  "anyhow",
